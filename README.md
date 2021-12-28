@@ -1,2 +1,2 @@
 # Project
-W3 School and Zomato customized Mini - Project
+React basedW3 School and Zomato customized Mini - Project
